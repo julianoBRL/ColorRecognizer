@@ -9,8 +9,8 @@ import numpy as np
 from HSVGenerator import RGBtoHSV2
 
 # Read the images
-#img = cv2.imread("Resources/shapes.jpg")
-image = cv2.imread("Resources/img1.jpeg")
+image = cv2.imread("Resources/shapes.jpg")
+#image = cv2.imread("Resources/img1.jpeg")
 
 # Resizing the image
 #image = cv2.resize(img, (700, 600))
